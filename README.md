@@ -47,7 +47,7 @@ This project is designed to be highly reproducible. No local data download is re
 ## 6. Product Link / Demo
 * **Github**: http://github.com/Scarlett154/acc102-track-project
 
-* **Demo**: 
+* **Demo**: https://video.xjtlu.edu.cn/Mediasite/MyMediasite/drafts
 
 ## 7. Limitations & Next Steps
 * **Limitations**:
