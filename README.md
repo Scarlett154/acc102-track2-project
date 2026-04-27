@@ -45,7 +45,7 @@ This project is designed to be highly reproducible. No local data download is re
 4. Click "Run All" cells. The notebook will automatically fetch the data from the web and generate all visualizations.
 
 ## 6. Product Link / Demo
-* **Github**: http://github.com/Scarlett154/acc102-track2-project
+* **Github**: https://github.com/Scarlett154/acc102-track2-project
 
 * **Demo**: https://video.xjtlu.edu.cn/Mediasite/MyMediasite/drafts
 
